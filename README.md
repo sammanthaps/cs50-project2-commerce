@@ -50,5 +50,5 @@ On `static\auctions` there are 2 folders. One for the `CSS` and another one for 
 
 Finally, take a look at `templates\auctions` to see all the templates associated with `auctions\views.py`.
 
-If you want to see a demonstration of my project functionality: **<https://youtu.be/ru10OMHEbp8>**
+If you want to see a demonstration of my project functionality: <https://youtu.be/ru10OMHEbp8>
 
